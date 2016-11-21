@@ -1,1 +1,1 @@
-TODO
+En Ruby, además de herencia, tenemos mixins
