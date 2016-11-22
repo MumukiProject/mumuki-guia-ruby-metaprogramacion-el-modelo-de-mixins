@@ -1,4 +1,4 @@
-Supongamos que en un juego tenemos las siguientes de clases: 
+Supongamos que en un juego tenemos las siguientes clases: 
 
 <img src="http://www.plantuml.com/plantuml/png/VP2z3eCm38JtF8MxmK2Ue7idHkRgchWeKWYI4wQsxqvew0z5wcQVlZkVR3nYf7OIU0-wAIBBLmwMvMpvK77WmVLZdNMjTLMJUkHHALDiBZh_D271GFPynbVsDB48o_ZtnYxcRM_H5-id5vUO12PH8RhWBEmFiuh7UzCi2PjzAVyjl1fkeFAO6G00">
 </img>
