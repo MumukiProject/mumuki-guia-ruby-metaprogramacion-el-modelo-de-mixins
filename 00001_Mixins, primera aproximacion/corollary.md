@@ -1,0 +1,1 @@
+Este es un problema clásico que pone en evidencia las limitaciones de las herencia simple: es fácil llegar a situaciones en las que no existe una jerarquía que permita modelar adecuadamente la situación

@@ -1,10 +1,17 @@
 ---
 tags: []
 layout: input_right
-editor: code
+editor: multiple_choice
 type: playground
 extra_visible: false
-language: 
+language: text
 teacher_info: ''
 manual_evaluation: false
-choices: []
+choices:
+- value: Si los ponemos en cada subclase, tendremos mucho código repetido
+  checked: true
+- value: Si los ponemos en `Unidad`, le estaremos agregando a ciertas clases métodos
+    que no le corresponden
+  checked: true
+- value: Si introducimos clases abstractas intermedias, el código resultará engorroso
+  checked: true
