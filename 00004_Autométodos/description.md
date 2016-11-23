@@ -1,8 +1,6 @@
-De igual forma que no hay milanesas sin puré (perdón, teníamos hambre cuando escribimos este ejercicio :fork_and_knife:) , no hay objetos sin clases: todo objeto es instancia de una cierta clase, en la que se encuentran los métodos que el objeto puede evaluar. ¿O no?
+De igual forma que no hay milanesas sin puré (_perdón, teníamos hambre cuando escribimos este ejercicio :fork_and_knife:_) , no hay objetos sin clases: todo objeto es instancia de una cierta clase, en la que se encuentran los métodos que el objeto puede evaluar. ¿O no?
 
-No.
-
-En Ruby los objetos también pueden tener métodos que le son totalmente propios, específicos para esa instancia y no compartidos con nadie más: _¡autométodos!_.
+No. En Ruby los objetos también pueden tener métodos que le son totalmente propios, específicos para esa instancia y no compartidos con nadie más: _¡autométodos!_.
 
 ```ruby 
 manuel_dario = Object.new
