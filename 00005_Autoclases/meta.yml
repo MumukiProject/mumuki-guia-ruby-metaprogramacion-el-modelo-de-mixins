@@ -5,7 +5,11 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: ''
+teacher_info: |+
+  ¡Perfecto! De todas formas, dado que obviamente la primera forma que vimos (`def objeto.metodo`) es mas compacta que la de autoclases, la preferiremos siempre que se pueda. Sólo que ahora ya sabés que es lo que realmente está sucediendo. O casi...
+
+
+
 manual_evaluation: false
 choices:
 - value: Para declarar métodos en un mixin
