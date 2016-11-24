@@ -1,3 +1,6 @@
+class Unidad
+end
+
 module Defensor
   def defender_de!(enemigo)
     #...
