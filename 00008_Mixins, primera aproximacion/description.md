@@ -30,3 +30,8 @@ class Muralla < Unidad
   include Defensor
 end
 ```
+
+> Veamos si se entiende: 
+> 
+> ¡Nos olvidamos de declarar la clase `Misil`! ¿Lo hacés por nosotros? Tiene que heredar de `Unidad` e incluir el mixin `Atacante`
+>
