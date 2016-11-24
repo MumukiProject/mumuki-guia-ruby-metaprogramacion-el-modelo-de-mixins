@@ -13,4 +13,20 @@ manuel_dario.cantar_sobre 'guerra, muerte, destrucción'
 # => 'guerra, muerte, destrucción, shalalala'
 ```
 
-> Veamos si se entiende: 
+Y no sólo eso, sino que **podemos agregar un autométodo a (casi) cualquier objeto**, en cualquier momento. 
+
+> Veamos si se entiende: modelemos al ídolo de Rock, Pomelo, y una de sus características frases.
+> 
+> ```ruby
+> ム pomelo.rocanrol 0
+> 'Rocanrol, nnn'
+> ム pomelo.rocanrol 1
+> 'Rocanrol nennn'
+> ム pomelo.rocanrol 2
+> 'Rocanrol nenennn'
+> ム pomelo.rocanrol 2
+> 'Rocanrol nenennn'
+> # y así...
+> ```
+>
+> `pomelo`, como es único, no es instancia de ninguna clase, y sus métodos son autométodos
