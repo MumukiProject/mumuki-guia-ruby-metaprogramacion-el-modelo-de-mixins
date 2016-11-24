@@ -1,3 +1,5 @@
+/*...content...*/
+
 class Coordenada
   include Pretty
   def initialize(latitud=0, longitud=0)
