@@ -23,7 +23,7 @@ end
 ム x.m1
 'c'
 ム x.m2
-'b`
+'b'
 ```
 
 Las autoclases se meten dentro de la jerarquía de herencia: **la autoclase de una instancia siempre es subclase de la clase de dicha instancia**. 
