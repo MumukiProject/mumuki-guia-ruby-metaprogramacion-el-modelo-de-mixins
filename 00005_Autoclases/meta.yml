@@ -1,10 +1,21 @@
 ---
 tags: []
-layout: input_right
-editor: code
-type: playground
+layout: input_bottom
+editor: multiple_choice
+type: problem
 extra_visible: false
-language: 
+language: text
 teacher_info: ''
 manual_evaluation: false
-choices: []
+choices:
+- value: Para declarar métodos en un mixin
+  checked: true
+- value: Para declarar métodos en una clase
+  checked: true
+- value: Para declarar autométodos, en una instancia (que en definitiva son métodos
+    de la autoclase)
+  checked: true
+- value: Para declarar métodos de la autoclase
+  checked: true
+- value: Para declarar clases
+  checked: false
