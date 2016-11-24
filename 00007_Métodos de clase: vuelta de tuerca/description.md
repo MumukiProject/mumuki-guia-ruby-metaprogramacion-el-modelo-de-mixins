@@ -25,3 +25,5 @@ class Foo
   end
 end
 ```
+
+> Reescribí tu solución anterior utilizando esta sintaxis
