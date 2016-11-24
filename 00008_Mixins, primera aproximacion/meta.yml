@@ -2,8 +2,8 @@
 tags: []
 layout: input_right
 editor: code
-type: playground
-extra_visible: false
+type: problem
+extra_visible: true
 language: 
 teacher_info: ''
 manual_evaluation: false
