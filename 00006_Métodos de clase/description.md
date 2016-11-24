@@ -1,15 +1,22 @@
-Ya sabemos definir:
+Ya sabemos definir métodos en las instancias, las clases, los mixins y las autoclases: siempre que definamos métodos en estos lugares, serán las instancias los que entenderán los mensajes correspondientes. 
 
-* métodos de instancia en las clases
-* métodos de instancia en la autoclase
-* métodos de instancia en un mixin
-* métodos de clase en un mixin
+¿Ahora bien, y si queremos que sea **la clase** la que entienda un cierto mensaje? ¿Cómo hace, por ejemplo, la clase `Time` para entender el mensaje el mensaje `now` (`Time.now`)?
 
-¿Y como hacemos para definir los viejos y clásicos métodos de clase? 
+Definiendo **métodos de clase**: 
 
 ```ruby
-class Foo
-  def self.bar
+class Time
+  # notá el self delante del now
+  def self.now
+    # ...
   end
 end
 ```
+
+> Veamos si se entiende: agregá a la clase `Array` el método `zeros`, que devuelve un array formado por n `0`s: 
+> 
+> ```ruby
+> ム Array.zeros(10)
+> => [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+> ```
+
