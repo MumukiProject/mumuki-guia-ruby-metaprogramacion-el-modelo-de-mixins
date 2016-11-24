@@ -8,4 +8,4 @@ Repasemos lo aprendido:
 * Los objetos tienen autoclases, que permiten definir autométodos
 * Los métodos de clase son autométodos
 
-Suficiente del metamodelo de Ruby por ahora. ¡Vayamos a metaprogramar!
+Suficiente del metamodelo de Ruby por ahora. ¡Vayamos a metaprogramar! :muscle:
