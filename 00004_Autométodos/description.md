@@ -4,7 +4,7 @@ No. En Ruby los objetos también pueden tener métodos que le son totalmente pro
 
 ```ruby 
 manuel_dario = Object.new
-def manuel_dario.cantar_sobre(tema) # notá el objecto entre el def y el nombre del método
+def manuel_dario.cantar_sobre(tema) # notá el objeto entre el def y el nombre del método
   tema + ', shalalala'
 end
 
