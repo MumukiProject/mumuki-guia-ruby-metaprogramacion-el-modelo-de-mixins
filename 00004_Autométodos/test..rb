@@ -1,4 +1,5 @@
 describe 'pomelo' do 
+  it('pomelo es instancia (directa) de object') { expect(pomelo.instance_of? Object).to be true }
   it('pomelo.rocanrol 0') { expect(pomelo.rocanrol 0).to eq 'Rocanrol, nnn' }
   it('pomelo.rocanrol 1') { expect(pomelo.rocanrol 1).to eq 'Rocanrol, nennn' }
   it('pomelo.rocanrol 2') { expect(pomelo.rocanrol 2).to eq 'Rocanrol, nenennn' }
