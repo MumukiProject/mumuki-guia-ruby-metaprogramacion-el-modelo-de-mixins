@@ -1,6 +1,6 @@
 La sintaxis para declarar métodos de clase es definitivamente parecida a la que utilizamos anteriormente para declarar métodos en la autoclase. ¡Y no es casualidad!
 
-Las clases, como casi todo en Ruby, son objetos. Y además, son únicos: no hay dos clases `Mascota`, por ejemplo. Y vimos que cuando tenemos objetos así, podíamos agregarles comportamiento directamente mediante los autométodos. 
+Las clases, como casi todo en Ruby, son objetos. Y además, son únicos: no hay dos clases `Mascota`, por ejemplo. Y vimos que cuando tenemos objetos así, podemos agregarles comportamiento directamente mediante los autométodos. 
 
 Moralejas: 
 
