@@ -21,11 +21,11 @@ Y no sólo eso, sino que **podemos agregar un autométodo a (casi) cualquier obj
 > ム pomelo.rocanrol 0
 > 'Rocanrol, nnn'
 > ム pomelo.rocanrol 1
-> 'Rocanrol nennn'
+> 'Rocanrol, nennn'
 > ム pomelo.rocanrol 2
-> 'Rocanrol nenennn'
+> 'Rocanrol, nenennn'
 > ム pomelo.rocanrol 2
-> 'Rocanrol nenennn'
+> 'Rocanrol, nenennn'
 > # y así...
 > ```
 >
