@@ -1,8 +1,6 @@
 Ya sabemos definir métodos en las instancias, las clases, los mixins y las autoclases: siempre que definamos métodos en estos lugares, serán las instancias los que entenderán los mensajes correspondientes. 
 
-¿Ahora bien, y si queremos que sea **la clase** la que entienda un cierto mensaje? ¿Cómo hace, por ejemplo, la clase `Time` para entender el mensaje el mensaje `now` (`Time.now`)?
-
-Definiendo **métodos de clase**: 
+¿Ahora bien, y si queremos que sea **la clase** la que entienda un cierto mensaje? ¿Cómo hace, por ejemplo, la clase `Time` para entender el mensaje el mensaje `now` (`Time.now`)? ¡Definamos **métodos de clase**! :muscle:
 
 ```ruby
 class Time
