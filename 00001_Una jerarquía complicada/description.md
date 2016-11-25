@@ -43,6 +43,6 @@ Como vemos, tenemos guerreros, murallas, magos y misiles:
 * los magos no atacan ni defienden
 * los guerreros atacan y defienden
 
-Pero esto nos trae un problema: si los métodos `atacar` y `defender` son muy parecidos, o incluso pero, iguales, dónde ¿los ponemos? :thought_balloon:
+Pero esto nos trae un problema: si los métodos `atacar` y `defender` son muy parecidos, o incluso iguales, ¿dónde los ponemos? :thought_balloon:
 
 > Seleccioná cuales de las siguientes afirmaciones son correctas

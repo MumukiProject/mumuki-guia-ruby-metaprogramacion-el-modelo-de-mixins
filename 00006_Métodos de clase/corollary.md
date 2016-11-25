@@ -1,3 +1,3 @@
-¿No te suena conocida la sintaxis que acabamos de utilizar para definir métodos de clase? ¿Ves el parecido con definir un métodos en la autoclase?
+¿No te suena conocida la sintaxis que acabamos de utilizar para definir métodos de clase? ¿Ves el parecido con definir un método en la autoclase?
 
 Veamos si este parecido es pura coincidencia o no...
