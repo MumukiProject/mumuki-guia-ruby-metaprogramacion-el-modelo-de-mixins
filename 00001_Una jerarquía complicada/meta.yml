@@ -8,10 +8,13 @@ language: text
 teacher_info: ''
 manual_evaluation: false
 choices:
-- value: Si los ponemos en cada subclase, tendremos mucho código repetido
+- !ruby/hash:BSON::Document
+  value: Si los ponemos en cada subclase, tendremos mucho código repetido
   checked: true
-- value: Si los ponemos en `Unidad`, le estaremos agregando a ciertas clases métodos
+- !ruby/hash:BSON::Document
+  value: Si los ponemos en `Unidad`, le estaremos agregando a ciertas clases métodos
     que no le corresponden
   checked: true
-- value: Si introducimos clases abstractas intermedias, el código resultará engorroso
+- !ruby/hash:BSON::Document
+  value: Si introducimos clases abstractas intermedias, el código resultará engorroso
   checked: true
