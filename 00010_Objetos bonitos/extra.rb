@@ -1,4 +1,4 @@
-/*...content...*/
+# ...content... #
 
 class Coordenada
   include Pretty

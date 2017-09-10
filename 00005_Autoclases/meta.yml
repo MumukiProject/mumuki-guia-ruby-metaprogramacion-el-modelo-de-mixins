@@ -12,19 +12,14 @@ teacher_info: |+
 
 manual_evaluation: false
 choices:
-- !ruby/hash:BSON::Document
-  value: Para declarar métodos en un mixin
+- value: Para declarar métodos en un mixin
   checked: true
-- !ruby/hash:BSON::Document
-  value: Para declarar métodos en una clase
+- value: Para declarar métodos en una clase
   checked: true
-- !ruby/hash:BSON::Document
-  value: Para declarar autométodos, en una instancia (que en definitiva son métodos
+- value: Para declarar autométodos, en una instancia (que en definitiva son métodos
     de la autoclase)
   checked: true
-- !ruby/hash:BSON::Document
-  value: Para declarar métodos de la autoclase
+- value: Para declarar métodos de la autoclase
   checked: true
-- !ruby/hash:BSON::Document
-  value: Para declarar clases
+- value: Para declarar clases
   checked: false
