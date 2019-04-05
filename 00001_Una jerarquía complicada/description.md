@@ -39,7 +39,7 @@ Unidad <|--Muralla
 Como vemos, tenemos guerreros, murallas, magos y misiles:
 
 * las murallas entienden `defender`, pero no `atacar`
-* los guerrero entienden `atacar`, pero no `defender`
+* los misiles entienden `atacar`, pero no `defender`
 * los magos no atacan ni defienden
 * los guerreros atacan y defienden
 
