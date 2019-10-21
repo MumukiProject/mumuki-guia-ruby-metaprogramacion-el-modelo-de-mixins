@@ -12,14 +12,20 @@ teacher_info: |+
 
 manual_evaluation: false
 choices:
-- value: Para declarar métodos en un mixin
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Para declarar métodos en un mixin
   checked: true
-- value: Para declarar métodos en una clase
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Para declarar métodos en una clase
   checked: true
-- value: Para declarar autométodos, en una instancia (que en definitiva son métodos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Para declarar autométodos, en una instancia (que en definitiva son métodos
     de la autoclase)
   checked: true
-- value: Para declarar métodos de la autoclase
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Para declarar métodos de la autoclase
   checked: true
-- value: Para declarar clases
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Para declarar clases
   checked: false
+name: Autoclases

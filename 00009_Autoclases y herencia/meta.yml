@@ -1,9 +1,10 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
+editor: 0
 type: playground
 extra_visible: true
 teacher_info: ''
 manual_evaluation: false
 choices: []
+name: Autoclases y herencia
