@@ -19,7 +19,7 @@ end
 manuel_dario = Object.new
 
 class << manuel_dario
-  def manuel_dario.cantar_sobre(tema)
+  def cantar_sobre(tema)
     tema + ', shalalala'
   end
 end
