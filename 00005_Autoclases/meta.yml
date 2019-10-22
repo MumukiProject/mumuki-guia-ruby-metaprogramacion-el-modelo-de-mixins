@@ -27,5 +27,5 @@ choices:
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Para declarar clases
-  checked: true
+  checked: false
 name: Autoclases
